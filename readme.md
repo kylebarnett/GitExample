@@ -1,3 +1,3 @@
 # Git-ing started with Git
 
-#### Blah blah blah 
+#### Blah blah blah, more blah blah blah
